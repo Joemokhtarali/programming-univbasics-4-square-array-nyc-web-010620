@@ -7,3 +7,5 @@ def square_array(array)
     newArr.push(newNum)
     i++
   end 
+  return newArr
+end 
